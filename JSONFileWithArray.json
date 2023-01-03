@@ -1,0 +1,18 @@
+{
+	"firstname": "Poornashree",
+	"lastname": "NS",
+	"employment": {
+		"myfirstjob": "Celstream",
+		"mysecondjob": "Symphony"
+	},
+	"domainExperience": [
+		{
+			"type": "Printer",
+			"exp": "One Yr"
+		},
+		{
+			"type": "Analytics",
+			"exp": "twoYr"
+		}
+	]
+}
